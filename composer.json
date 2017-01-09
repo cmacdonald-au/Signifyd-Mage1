@@ -1,0 +1,10 @@
+{
+    "name":"signifyd/connect",
+    "type":"magento-module",
+    "license":"OSL-3.0",
+    "description":"Integrated Fraud Management platform",
+    "homepage":"https://www.signifyd.com/resources/manual/magento-1/installation/",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
